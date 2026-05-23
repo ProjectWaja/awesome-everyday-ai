@@ -11,3 +11,14 @@ Thumbs.db
 .env
 .env.local
 *.key
+
+# email-triage tool: OAuth secrets, cached tokens, generated reports
+credentials.json
+token_*.json
+triage_report.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

@@ -12,6 +12,7 @@ A no-hype list of AI tools that replace *real recurring chores* — layered for 
 | **Who it's for** | 🟢 Everyday users (no code) **and** 🔧 builders (wire it yourself) |
 | **Covers** | Productivity & Time · Home & Finance · Learning & Creativity · Health & Wellness |
 | **The twist** | A whole section on what AI *still can't do well* in 2026 — the openings worth building |
+| **🛠 Runnable demo** | [`tools/email-triage`](tools/email-triage) — AI inbox sorter (Claude *or* local Ollama), read-only by default |
 | **Last reviewed** | May 2026 |
 | **License** | [CC0-1.0](LICENSE) — copy, adapt, and remix freely |
 
@@ -114,6 +115,8 @@ Three principles for picking tools that stick:
 > Each morning, have your assistant read overnight email + today's calendar and produce: *3 things that need a reply, 2 schedule conflicts, 1 thing you're forgetting.* Approve the drafted replies. Done.
 
 🔧 **For builders:** A "Daily Brief" clone is the best first project. Pull calendar events + recent unread email, feed them to a model with a fixed prompt template, and post the summary to yourself (email, Slack, or push notification). ~100 lines.
+
+> **🛠 Runnable demo in this repo → [`tools/email-triage`](tools/email-triage)** — sorts your unread Gmail into categories with Claude *or* a local Ollama model. Read-only by default; `--demo` runs on sample data with zero setup.
 
 <p align="right"><sub><a href="#awesome-everyday-ai">▲ back to top</a></sub></p>
 
