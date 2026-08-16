@@ -103,6 +103,7 @@ Three principles for picking tools that stick:
 
 | Tool | What it is | How to use it (everyday) |
 |---|---|---|
+| **[Agent QA](https://github.com/vostride/agent-qa)** 🔧🆕 | Natural-language web/mobile QA agent with persistent test memory | Save recurring regression flows, rerun them after changes, and triage failures from captured evidence |
 | **[ChatGPT](https://chatgpt.com)** 🟢🆕 | General assistant; now folds in agentic web tasks (the old "Operator") | Delegate multi-step chores — fill a form, follow a booking flow, compare options across tabs |
 | **[Gemini Spark + Daily Brief](https://gemini.google.com)** 🟢🆕💸 | Personal agent wired into Gmail/Docs/Calendar; produces a morning digest | Auto-summarize newsletters, surface today's conflicts, draft replies *(gated behind the Ultra plan)* |
 | **[Claude](https://claude.ai)** 🟢 | Strong reasoning + writing assistant | Long-document summaries, drafting, "think through this decision with me" |
@@ -217,10 +218,11 @@ Three principles for picking tools that stick:
 
 > Every tool in one place — alphabetical, so you can scan tags at a glance. `↗` jumps to the section.
 
-`📊 23 tools · 4 life areas · 4 builder starter projects · 6 frontier gaps · last reviewed May 2026`
+`📊 24 tools · 4 life areas · 4 builder starter projects · 6 frontier gaps · last reviewed May 2026`
 
 | Tool | Category | Tags | Section |
 |---|---|---|---|
+| [Agent QA](https://github.com/vostride/agent-qa) | Productivity | 🔧 🆕 | [↗](#-productivity--time) |
 | [ChatGPT](https://chatgpt.com) | Productivity · Learning | 🟢 🆕 | [↗](#-productivity--time) |
 | [Claude](https://claude.ai) | Productivity · Learning | 🟢 | [↗](#-productivity--time) |
 | [Expedia](https://expedia.com) | Home & Finance | 🟢 | [↗](#-home--finance) |
