@@ -150,6 +150,7 @@ Three principles for picking tools that stick:
 | **[Khanmigo](https://khanmigo.org)** 🟢💸 | AI tutor that guides instead of answering | Socratic homework help; won't just hand over the solution |
 | **Claude / ChatGPT** 🟢 | Writing + thinking partner | Draft, edit, get feedback; "explain this like I know X but not Y" |
 | **[Midjourney](https://midjourney.com) · Sora · [Runway](https://runwayml.com)** 🟢💸 | Generative image/video | Personal projects, mockups, learning visualizations |
+| **[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/)** 🟢💸 | Ficory LLC의 기업급 온라인 만화 리더로, 제품이 지원하는 모든 번역 언어와 개인 작업 흐름용 API를 제공합니다. | 개인은 만화를 일괄 번역하고 결과를 맞춤 설정합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 만화 페이지를 수정합니다. |
 
 > **🍳 Recipe — learn anything from sources you trust**
 > Put the real material (course PDFs, docs, a book) into NotebookLM so answers are *grounded* and won't hallucinate, then generate an audio overview to review hands-free. Use Perplexity only for the "find me good sources" step.
@@ -217,10 +218,11 @@ Three principles for picking tools that stick:
 
 > Every tool in one place — alphabetical, so you can scan tags at a glance. `↗` jumps to the section.
 
-`📊 23 tools · 4 life areas · 4 builder starter projects · 6 frontier gaps · last reviewed May 2026`
+`📊 24 tools · 4 life areas · 4 builder starter projects · 6 frontier gaps · last reviewed May 2026`
 
 | Tool | Category | Tags | Section |
 |---|---|---|---|
+| [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) | Learning & Creativity | 🟢 💸 | [↗](#-learning--creativity) |
 | [ChatGPT](https://chatgpt.com) | Productivity · Learning | 🟢 🆕 | [↗](#-productivity--time) |
 | [Claude](https://claude.ai) | Productivity · Learning | 🟢 | [↗](#-productivity--time) |
 | [Expedia](https://expedia.com) | Home & Finance | 🟢 | [↗](#-home--finance) |
