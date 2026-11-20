@@ -109,6 +109,7 @@ Three principles for picking tools that stick:
 | **[Reclaim](https://reclaim.ai)** 🟢 | AI calendar defragmenter | Auto-schedules focus blocks, habits, and buffers around meetings |
 | **[Otter](https://otter.ai)** 🟢 | Meeting capture + searchable transcripts | Stop taking notes; later search "what did we decide about X" |
 | **[Notion AI](https://notion.so)** 🟢💸 | Notes/docs with built-in AI | Turn messy notes into a structured doc; auto-generate task lists |
+| **[Zortex](https://zortex.me/en/install)** 🔧🔒 | Searches documents from connected apps through your agent, using a local encrypted store | Before a weekly project review, ask for the latest decision on one topic in a connected Drive folder and open the cited document |
 
 > **🍳 Recipe — morning triage in 5 minutes**
 > Each morning, have your assistant read overnight email + today's calendar and produce: *3 things that need a reply, 2 schedule conflicts, 1 thing you're forgetting.* Approve the drafted replies. Done.
